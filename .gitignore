@@ -1,0 +1,18 @@
+.DS_Store
+SistemaPersonal/bin/*
+SistemaPersonal/obj/*
+SistemaPersonal/My Project/*
+SistemaPersonal/bin/Debug/*
+SistemaPersonal/obj/Debug/*
+*.user
+*.suo
+*.config
+*.vbproj
+*.txt
+*.cache
+_ReSharper.*
+*.sln.cache
+readme.md
+SistemaPersonal.v12.suo
+SistemaPersonal.sln
+*.v12.suo
