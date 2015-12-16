@@ -2,9 +2,10 @@
     Inherits Conexion
 
     Public Sub probarConexion()
+        MsgBox("Conectando...")
         Try
             If conectar() Then
-                MsgBox("Conectado")
+
             Else
                 Throw New Exception("No se pudo conectar")
             End If
